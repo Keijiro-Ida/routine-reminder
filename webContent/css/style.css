@@ -1,0 +1,156 @@
+@charset "UTF-8";
+
+	body{
+	background-color:#999999;
+	text-align:center;
+	}
+	
+	div#pagebody{
+	background: #ffffff;
+	width: 500px;
+	height: 530px;
+	border: 1px solid #cccccc;
+	margin: 50px auto;
+	}
+	
+	div #header{
+	background-color: #87cefa;
+	color: #ffffff;
+	height:30px;
+	font-size:large;
+	font-weight: normal;
+	}
+
+	div #main{
+	padding:50px;
+	font-size: medium;
+	font-weight: normal;
+	}
+	
+	div#main table{
+	margin-left:auto;
+	margin-right:auto;
+	}
+	
+	div #main_list{
+	padding:10px ;
+	font-size: small;
+	font-weight: normal;
+	text-align: left;
+	}
+	
+	div #main_editGoal{
+	padding:10px 20px;
+	font-size: medium;
+	font-weight: normal;
+	}
+	
+	div #goal{
+	padding: 0px 10px;
+	border: 1px solid #c0c0c0;
+	border-radius: 10px;
+	font-size:small;
+	}
+	
+	.btn_login {
+	background-color: #ffffff;
+	margin: 2.5px 10px;
+	color: #000000;
+	width:80px;
+	height:30px;
+	font-size:medium;
+	border: 2px solid #999999;
+	border-radius: 20px;
+	margin:20px;
+	}
+	
+	.btn_sign{
+	width: 80px;
+	height: 30px;
+	font-size:small;
+	font-weight: normal;
+	border: 1px solid #999999;
+	border-radius: 20px;
+	}
+	
+	.center {
+	padding: 60px;
+	text-align: center;
+	font-size: large;
+	font-weight: normal;
+	border: 2px solid #999999;
+	border-radius: 20px;
+	}
+	
+	.btn_edit{
+	float:right;
+	border-radius: 20px;
+	border: 1px solid #c0c0c0;
+	}
+	
+	.btn_update{
+	width: 60px;
+	height: 25px;
+	font-size:small;
+	font-weight: normal;
+	border: 1px solid #999999;
+	border-radius: 20px;
+	}
+	
+	#page {
+	text-align: center;
+	}
+	
+	.btn_list {
+	background-color: #87cefa;
+	margin: 2.5px 10px;
+	float: left;
+	color: #ffffff;
+	width:60px;
+	height:25px;
+	font-size:large;
+	font-weight:normal;
+	border: 1px solid #ffffff;
+	border-radius: 20px;
+	}
+	
+	.btn_right {
+	background-color: #87cefa;
+	margin: 2.5px 10px;
+	float: right;
+	color: #ffffff;
+	width:60px;
+	height:25px;
+	font-size:small;
+	font-weight: normal;
+	border: 1px solid #ffffff;
+	border-radius: 20px;
+	}
+	
+	.btn_main {
+	background-color: #87cefa;
+	margin: 2.5px 10px;
+	float: left;
+	color: #ffffff;
+	width:60px;
+	height:25px;
+	font-size:small;
+	font-weight: normal;
+	border: 1px solid #ffffff;
+	border-radius: 20px;
+	}
+	
+
+	.btn_left {
+	background-color: #87cefa;
+	margin: 2.5px 10px;
+	float: left;
+	color: #ffffff;
+	width:60px;
+	height:25px;
+	font-size:small;
+	font-weight: normal;
+	border: 1px solid #ffffff;
+	border-radius: 20px;
+	}
+	
