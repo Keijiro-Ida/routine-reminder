@@ -21,7 +21,7 @@
 - 登録した習慣を確認、修正、更新を行う。
 
 PDCAを繰り返していくことが、習慣形成につながります。  
-このアプリではユーザーのPDCAを実現し、習慣形成をサポートします。
+このアプリでは、ユーザーがPDCAを通して習慣形成することを目的としています。
 
 
 
@@ -31,7 +31,7 @@ PDCAを繰り返していくことが、習慣形成につながります。
 
 #### メイン画面  
 
-![Main](https://github.com/Keijiro-Ida/routine-reminder/issues/1#issue-952229875)  
+![Main](https://github.com/Keijiro-Ida/routine-reminder/issues/1#issue-952229875)   
 テキスト、リマインド時間の登録を行います。  
 Saveボタンで登録、≡ボタンで登録した習慣を確認できます。
 
