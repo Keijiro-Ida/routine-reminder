@@ -13,6 +13,7 @@
 			reminder
 	 	</div>
 		<div id="main">
+			<h3>習慣リマインダー</h3>
 			<form id="login" action="/LoginServlet" method="post">
 				<table>
 				<tr>
@@ -22,12 +23,13 @@
 				<th>パスワード:</th><th><input type="password" name="pass"></th>
 				<tr>
 				</table>
-				<br>
 				<input type="submit" class="btn_login" value="Login">
-				<br>
-				
 			</form>
-			<br>
+			<p>テストユーザー: abcdef@aaa.co.jp</p>
+			<p>パスワード: 11223344</p>
+			<p>習慣形成、目標確認、学習記憶など</p>
+			<p>登録した内容を、設定した時間に</p>
+			<p>毎日リマインドメールを送るアプリです。</p>
 			<a href="/SignUpServlet">新規登録</a>
 		</div>
 	</div>
